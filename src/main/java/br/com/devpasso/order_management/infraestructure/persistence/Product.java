@@ -1,4 +1,4 @@
-package br.com.devpasso.order_management.infraestruture.persistence;
+package br.com.devpasso.order_management.infraestructure.persistence;
 
 import jakarta.persistence.*;
 import lombok.*;

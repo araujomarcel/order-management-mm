@@ -1,4 +1,4 @@
-package br.com.devpasso.order_management.infraestruture.persistence.repository;
+package br.com.devpasso.order_management.infraestructure.persistence.repository;
 
 import br.com.devpasso.order_management.domain.repository.ProductRepositoryPort;
 import br.com.devpasso.order_management.domain.model.Product; // Seu modelo de domínio

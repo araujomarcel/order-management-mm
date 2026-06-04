@@ -1,7 +1,7 @@
-package br.com.devpasso.order_management.infraestruture.web.controller;
+package br.com.devpasso.order_management.infraestructure.web.controller;
 
 import br.com.devpasso.order_management.application.usecase.product.ListProductsUseCase;
-import br.com.devpasso.order_management.infraestruture.web.response.ProductResponse;
+import br.com.devpasso.order_management.infraestructure.web.response.ProductResponse;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;

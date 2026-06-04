@@ -1,7 +1,7 @@
-package br.com.devpasso.order_management.infraestruture.web.controller;
+package br.com.devpasso.order_management.infraestructure.web.controller;
 
 import br.com.devpasso.order_management.domain.model.Product;
-import br.com.devpasso.order_management.infraestruture.web.response.ProductResponse;
+import br.com.devpasso.order_management.infraestructure.web.response.ProductResponse;
 import org.springframework.stereotype.Component;
 
 @Component

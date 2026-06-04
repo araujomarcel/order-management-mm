@@ -1,4 +1,4 @@
-package br.com.devpasso.order_management.infraestruture.web.response;
+package br.com.devpasso.order_management.infraestructure.web.response;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

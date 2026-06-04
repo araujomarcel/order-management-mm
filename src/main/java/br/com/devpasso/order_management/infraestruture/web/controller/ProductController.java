@@ -21,7 +21,6 @@ public class ProductController {
     private final ListProductsUseCase listProductsUseCase;
     private final ProductWebMapper mapper;
 
-    // O construtor manual que estava aqui FOI REMOVIDO!
 
     @GetMapping
     @Operation(summary = "Lista todos os produtos paginados")
